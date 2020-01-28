@@ -4,3 +4,4 @@ C-k
 C-y
 C-s
 C-/
+C-x C-c
